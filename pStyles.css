@@ -1,0 +1,27 @@
+#buttonDiv {
+	border-width: 1px;
+	border-color: black;
+	border-style: solid;
+	background-color: blue;
+	margin-left: auto;
+	margin-right: auto;
+	width: 500px;
+	text-align: center;
+}
+
+#puzzleCanvasDiv {
+	border-width: 5px;
+	border-color: black;
+	border-style: solid;
+	width: 512px;
+	height: 512px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#titleDiv {
+	margin-left: auto;
+	margin-right: auto;
+	width: 500px;
+	text-align: center;
+}
